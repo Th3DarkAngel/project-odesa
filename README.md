@@ -82,13 +82,20 @@ This is not a guided tutorial follow-along. Every component was researched, conf
 
 > Screenshots of the live dashboard, enrolled agents, and triggered alerts are in the [`screenshots/`](./screenshots) folder.
 
-| What | Description |
-|---|---|
-| `dashboard-overview.png` | Wazuh dashboard with agents active |
-| `agents-enrolled.png` | Agent manager showing Poseidon + Linux Mint VM |
-| `alert-fired.png` | Alert triggered |
-| `slack-integration.png` | Alert channel on slack with alerts |
----
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Enrolled Agents
+![Agents Enrolled](screenshots/agents-enrolled.png)
+
+### Alert Fired
+![Alert Fired](screenshots/alert-fired.png)
+
+### Slack Alerts
+![Slack Alerts](screenshots/slack-integration.png)
+
 
 ## Key Skills Demonstrated
 
