@@ -1,4 +1,4 @@
-# 🛡️ Project Sentinel
+# 🛡️ Project Odesa
 
 A personal blue team home lab built to develop real-world skills in security monitoring, threat detection, and incident analysis.
 
