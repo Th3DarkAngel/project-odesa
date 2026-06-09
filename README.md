@@ -6,7 +6,7 @@ A personal blue team home lab built to develop real-world skills in security mon
 
 ## Overview
 
-Project Sentinel is a self-hosted Security Information and Event Management (SIEM) environment running **Wazuh v4.14.4**, deployed via Docker on a dedicated Linux host. The lab simulates a small monitored network with multiple enrolled agents, and real alert generation to mirror the core workflow of a SOC analyst.
+Project Odesa is a self-hosted Security Information and Event Management (SIEM) environment running **Wazuh v4.14.4**, deployed via Docker on a dedicated Linux host. The lab simulates a small monitored network with multiple enrolled agents, and real alert generation to mirror the core workflow of a SOC analyst.
 
 This is not a guided tutorial follow-along. Every component was researched, configured, debugged, and documented independently.
 
